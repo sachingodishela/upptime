@@ -1,8 +1,8 @@
 [
   {
     "name": "Sachin Godishela",
-    "url": "https://sachingodishela.com",
-    "icon": "https://icons.duckduckgo.com/ip3/sachingodishela.com.ico",
+    "url": "https://api.sachingodishela.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.sachingodishela.com.ico",
     "slug": "sachin-godishela",
     "status": "down",
     "uptime": "0.00%",
@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-02-28": 142,
+      "2026-02-28": 246,
       "2026-02-27": 793
     }
   }
