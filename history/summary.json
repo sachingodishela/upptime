@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sachingodishela.com.ico",
     "slug": "sachin-godishela",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 568,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "uptime": "89.55%",
+    "uptimeDay": "61.74%",
+    "uptimeWeek": "89.55%",
+    "uptimeMonth": "89.55%",
+    "uptimeYear": "89.55%",
+    "time": 378,
+    "timeDay": 91,
+    "timeWeek": 378,
+    "timeMonth": 378,
+    "timeYear": 378,
+    "dailyMinutesDown": {
+      "2026-03-03": 157,
+      "2026-03-02": 394
+    }
   }
 ]
